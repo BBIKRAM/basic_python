@@ -1,0 +1,9 @@
+README.md
+setup.py
+devilpdf/__init__.py
+devilpdf/pdf.py
+devilpdf/pdf2.py
+devilpdf.egg-info/PKG-INFO
+devilpdf.egg-info/SOURCES.txt
+devilpdf.egg-info/dependency_links.txt
+devilpdf.egg-info/top_level.txt

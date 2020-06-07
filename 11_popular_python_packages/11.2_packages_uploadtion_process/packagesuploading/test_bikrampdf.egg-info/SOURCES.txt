@@ -1,0 +1,9 @@
+README.md
+setup.py
+devilpdf/__init__.py
+devilpdf/pdf.py
+devilpdf/pdf2.py
+test_bikrampdf.egg-info/PKG-INFO
+test_bikrampdf.egg-info/SOURCES.txt
+test_bikrampdf.egg-info/dependency_links.txt
+test_bikrampdf.egg-info/top_level.txt
